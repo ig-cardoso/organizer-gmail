@@ -8,5 +8,5 @@ Essa aplicação tem propósito de organizar o e-mail do Gmail. Vale resaltar qu
 
 ## Licença
 
-Esse projeto está licenciado sob uma licença do MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes
+Esse projeto está licenciado sob uma licença do MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
 
