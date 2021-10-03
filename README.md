@@ -4,7 +4,7 @@ Essa aplicação tem propósito de organizar o e-mail do Gmail. Vale resaltar qu
 
 ## Autor
 
-* **Igor Cardoso** - [ig-cardoso](https://github.com/ig-cardoso)
+* **Igor Cardoso** - [igorxcardoso](https://github.com/igorxcardoso)
 
 ## Licença
 
